@@ -1,2 +1,0 @@
-# lemonparty
-Created with CodeSandbox
