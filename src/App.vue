@@ -49,7 +49,7 @@
                   </v-tab>
 
                   <v-tab href="#tabpotenziamenti">
-                    Potenziamentissssssss
+                    Potenziamenti
                     <v-icon>mdi-trending-up</v-icon>
                   </v-tab>
 
